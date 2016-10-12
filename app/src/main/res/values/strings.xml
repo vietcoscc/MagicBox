@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MagicBox</string>
+    <string name="activity_menu_input_name">Input player name</string>
+    <string name="activity_menu_start_game">Start game</string>
+    <string name="activity_menu_win_lose" >win/lose</string>
+    <string name="activity_main_player_name">Player Name : ABC</string>
+    <string name="activity_main_game_name">GAME\nMAGIC BOX</string>
+    <string name="activity_main_times">Times : 5</string>
+</resources>

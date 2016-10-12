@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="activity_menu_win_lose">20sp</dimen>
+    <dimen name="activity_main_player_name">25sp</dimen>
+    <dimen name="activity_main_game_name">30sp</dimen>
+    <dimen name="margin_short">1dp</dimen>
+    <dimen name="margin_long">40dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="margin_left_long">40dp</dimen>
+    <dimen name="margin_right_long">40dp</dimen>
+    <dimen name="margin_bottom_long">60dp</dimen>
+    <dimen name="margin_right">20dp</dimen>
+</resources>
